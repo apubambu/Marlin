@@ -1889,7 +1889,7 @@
 // RepRapDiscount FULL GRAPHIC Smart Controller
 // http://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller
 //
-//#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
 
 //
 // ReprapWorld Graphical LCD
@@ -1927,7 +1927,7 @@
 // BQ LCD Smart Controller shipped by
 // default with the BQ Hephestos 2 and Witbox 2.
 //
-#define BQ_LCD_SMART_CONTROLLER
+// #define BQ_LCD_SMART_CONTROLLER
 
 //
 // Cartesio UI
